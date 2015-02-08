@@ -126,7 +126,7 @@
 
 			<div id = "footer" class = "nav"> 
 				<h5>
-					<a href = "home.html">Home</a>
+					<a href = "index.php">Home</a>
 				</h5>
 				<p>
 					<a href = "http://www.linkedin.com/in/michellevoelker">
@@ -135,7 +135,7 @@
 						<img src = "img/icon/Pinterest.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Pinterest2.png'" onmouseout = "this.src='img/icon/Pinterest.png'"/></a> &nbsp 
 					<a href = "mailto:mvoelker1025@gmail.com?Subject=Website%20Inquiry" target="_top">
 						<img src = "img/icon/Mail.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp 
-					<a href = "info.html">
+					<a href = "info.php">
 						<img src = "img/icon/Info.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Info2.png'" onmouseout = "this.src='img/icon/Info.png'"/></a>
 				</p>
 				<h5>
