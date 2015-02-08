@@ -1,0 +1,169 @@
+html, body {
+	background-color: #F2F2EF;
+	background-image: url("img/stripes.png");
+	margin: 0;
+	padding: 0;
+	height: 100%;
+}
+
+h1{
+	color: #6857A6;
+	font-size: 60px;
+	font-weight: bold;
+	font-family: "Tw Cen MT";
+}
+
+h2{
+	color: #494841;
+	font-size: 24px;
+	font-weight: normal;
+	font-family: "Tw Cen MT";
+}
+
+h3{
+	color: #494841;
+	font-size: 24px;
+	font-weight: bold;
+	font-family: "Tw Cen MT";
+}
+
+h4{
+	color: #494841;
+	font-size: 20px;
+	font-weight: normal;
+	font-style: italic;
+	font-family: "Tw Cen MT";
+}
+
+h5{
+	color: #8D8D8D;
+	font-size: 20px;
+	font-weight: normal;
+	font-family: "Tw Cen MT";
+	margin-top: 2px;
+}
+
+p{
+	color: 00000;
+	font-size: 20px;
+	font-weight: normal;
+	font-family: "Tw Cen MT";
+	margin-bottom: 0px;
+}
+
+
+/* body-----------------------------------------*/
+	.wrapper{
+		padding: 20px 20px 20px;
+		margin: 0px auto;
+	}		
+
+	.color{
+		color: #6857A6;
+	}
+
+	.container{
+		padding: 20px;
+		margin: 0px;
+		text-align: center;
+	}
+
+	#main{
+		width: auto;
+	}
+
+	.content{
+		margin: 20px ; 
+		text-align: center;
+	}
+	
+	.nav{
+		text-align: center;
+		padding: 20px;
+		margin: 0px;
+	}
+
+	.nav-icon{
+		background-color: transparent;
+	}
+
+	.nav-icon:hover{
+		box-shadow: 0px 0px 20px 5px #6857A6;
+	}
+
+	.gallery img{
+		box-sizing:border-box;
+		border:2px solid transparent;
+	}
+
+	.tech-block{
+		box-sizing:border-box;
+		border: 2px solid transparent;
+	}
+
+	.nav-tech:hover{
+		box-shadow: 0px 0px 10px 5px #6857A6;
+	}
+
+/* dropdowns-----------------------------------------*/
+
+	.dropdown li {
+		list-style: none;
+		cursor: pointer;
+	}
+
+	.dropdown{
+		padding: 0px;
+		}
+
+	.hidden {
+		display: none;
+		color: #494841;
+		font-size: 20px;
+		font-weight: normal;
+		font-family: "Tw Cen MT";
+		margin-bottom: 0px;
+		text-align: center;
+	}
+
+	.label{
+		text-align: center;
+		color: #494841;
+		font-size: 24px;
+		font-weight: bold;
+		font-family: "Tw Cen MT";
+		font-style: italic;
+	}
+
+
+/* art gallery-----------------------------------------*/
+    #toggle-view {
+        list-style:none;    
+        font-family:arial;
+        font-size:11px;
+        margin:0;
+        padding:0;
+        width:300px;
+    }
+        #toggle-view li {
+            margin:10px;
+            border-bottom:1px solid #ccc;
+            position:relative;
+            cursor:pointer;
+        }
+        
+        #toggle-view h3 {
+            margin:0;
+            font-size:14px;
+        }
+        #toggle-view span {
+            position:absolute;
+            right:5px; top:0;
+            color:#ccc;
+            font-size:13px;
+        }
+        
+        #toggle-view .panel {
+            margin:5px 0;
+            display:none;
+        }    
