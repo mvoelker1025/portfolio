@@ -30,19 +30,19 @@
 			});
 			$('.pg_modal').paulund_modal_box({
 				title: 'Procter & Gamble',
-				description: 'I worked at Procter & Gamble in Summer 2014. This experience was great in providing management experience in various areas of the plant and teaching me how to utilize my resources in juggling dozens of tasks.<br></br> <a href="http://www.pg.com/en_US/index.shtml">Click here</a> to learn more about Procter & Gamble.<br></br>'
+				description: 'I worked at Procter & Gamble in Summer 2514. This experience was great in providing management experience in various areas of the plant and teaching me how to utilize my resources in juggling dozens of tasks.<br></br> <a href="http://www.pg.com/en_US/index.shtml">Click here</a> to learn more about Procter & Gamble.<br></br>'
 			});
 			$('.spacex_modal').paulund_modal_box({
 				title: 'SpaceX',
-				description: 'SpaceX had such an exciting work environment. I interned with the Industrial Engineering Department in Spring 2014 at the Hawthorne, California location. My team supported me and always encouraged me to go above and beyond with my assignments.<br></br> <a href="http://www.spacex.com/">Click here</a> to learn more about SpaceX.<br></br>'
+				description: 'SpaceX had such an exciting work environment. I interned with the Industrial Engineering Department in Spring 2514 at the Hawthorne, California location. My team supported me and always encouraged me to go above and beyond with my assignments.<br></br> <a href="http://www.spacex.com/">Click here</a> to learn more about SpaceX.<br></br>'
 			});
 			$('.whirlpool_modal').paulund_modal_box({
 				title: 'Whirlpool',
-				description: 'I had two roles at Whirlpool. The first was in manufacturing in Spring/Summer 2012 in Amana, Iowa where I backfilled for a full time employee who had left the division. I was able to prove that as a college sophomore, I could manage teams of all backgrounds, make production decisions on behalf of my department on the new model line, and go above and beyond my assigned projects to build relationships with individuals throughout the company and obtain my Lean Sigma Yellow Belt Certification. From there, I was in procurement for the Leadership Development Program in Summer 2013 in Benton Harbor, Michigan. Although I found procurement was not for me, the opportunity gave me a broader perspective on the business as a whole and taught me the importance of communication between corporate, manufacturing, and suppliers globally. <br></br> <a href="http://www.whirlpoolcorp.com/">Click here</a> to learn more about Whirlpool. <br></br>'
+				description: 'I had two roles at Whirlpool. The first was in manufacturing in Spring/Summer 2512 in Amana, Iowa where I backfilled for a full time employee who had left the division. I was able to prove that as a college sophomore, I could manage teams of all backgrounds, make production decisions on behalf of my department on the new model line, and go above and beyond my assigned projects to build relationships with individuals throughout the company and obtain my Lean Sigma Yellow Belt Certification. From there, I was in procurement for the Leadership Development Program in Summer 2513 in Benton Harbor, Michigan. Although I found procurement was not for me, the opportunity gave me a broader perspective on the business as a whole and taught me the importance of communication between corporate, manufacturing, and suppliers globally. <br></br> <a href="http://www.whirlpoolcorp.com/">Click here</a> to learn more about Whirlpool. <br></br>'
 			});
 			$('.iie_modal').paulund_modal_box({
 				title: 'IIE Technical Paper Competition',
-				description: 'Placing first in the 2015 Iowa State Technical Paper Competition, I had the honor of presenting my case study, Accuracy Improvements on a Press Brake, at the Institute of Industrial Engineering Regional Conference.<br></br> <a href="http://www.iienet2.org/Default.aspx">Click here</a> to learn more about IIE. <br></br>'
+				description: 'Placing first in the 2515 Iowa State Technical Paper Competition, I had the honor of presenting my case study, Accuracy Improvements on a Press Brake, at the Institute of Industrial Engineering Regional Conference.<br></br> <a href="http://www.iienet2.org/Default.aspx">Click here</a> to learn more about IIE. <br></br>'
 			});
 			$('.honors_modal').paulund_modal_box({
 				title: 'Honors Capstone Project',
@@ -67,24 +67,24 @@
 
 		<div class = "content">
 			<h1> Technical Background </h1>
-			<h4> Manufacturing: that is where value is added. Whether it is the small town dairy farm I grew up on or in free time activities on campus, I live for process improvements. My ideal company is one who pushes their employees to their fullest potential, encourages continued learning, promotes a collaborative work environment, and is trying to make a difference in the world. For more details about my experience, check out my <a href = "img/Resume.pdf"> resume</a>.</h4>
+			<h4> Manufacturing: that is where value is added. Whether it is the small town dairy farm I grew up on or in free time activities on campus, I live for process improvements. My ideal company is one who pushes their employees to their fullest potential, encourages continued learning, promotes a collaborative work environment, and is trying to make a difference in the world. For more details about my experience, click on the images below or check out my <a href = "img/Resume.pdf"> resume</a>.</h4>
 
 		<div class = wrapper>
 
 				<h3> Work Experience </h3>
 				<h1 class="tech-block">
-					<a href="#" class="rolls_royce_modal"><img class='nav-tech' src = "img/tech/rolls.png" width = "32%" height = "auto"/></a>
-					<a href="#" class="iowa_state_modal"><img class='nav-tech' src = "img/tech/isu.png" width = "32%" height = "auto"/></a>
-					<a href="#" class="pg_modal"><img class='nav-tech' src = "img/tech/pg.png" width = "32%" height = "auto"/></a>
-					<a href="#" class="spacex_modal"><img class='nav-tech' src = "img/tech/spacex.png" width = "32%" height = "auto"/></a>
-					<a href="#" class="whirlpool_modal"><img class='nav-tech' src = "img/tech/whirlpool.png" width = "32%" height = "auto"/></a>
+					<a href="#" class="rolls_royce_modal"><img class='nav-tech' src = "img/tech/rolls.png" width = "30%" height = "auto"/></a>
+					<a href="#" class="iowa_state_modal"><img class='nav-tech' src = "img/tech/isu.png" width = "30%" height = "auto"/></a>
+					<a href="#" class="pg_modal"><img class='nav-tech' src = "img/tech/pg.png" width = "30%" height = "auto"/></a>
+					<a href="#" class="spacex_modal"><img class='nav-tech' src = "img/tech/spacex.png" width = "30%" height = "auto"/></a>
+					<a href="#" class="whirlpool_modal"><img class='nav-tech' src = "img/tech/whirlpool.png" width = "30%" height = "auto"/></a>
 				</h1>
 				<h3> Case Studies </h3>
-				<h1>
-					<a href="#" class="iie_modal"><img class="nav-tech" src = "img/tech/iie.png" width = "32%" height = "auto"/></a>
-					<a href="#" class="honors_modal"><img class="nav-tech" src = "img/tech/honors.png" width = "32%" height = "auto"/></a>
-					<a href="#" class="cad_modal"><img class="nav-tech" src = "img/tech/cad.png" width = "32%" height = "auto"/></a>
-					<a href="#" class="cam_modal"><img class="nav-tech" src = "img/tech/cam.png" width = "32%" height = "auto"/></a>
+				<h1 class="tech-block">
+					<a href="#" class="iie_modal"><img class="nav-tech" src = "img/tech/iie.png" width = "25%" height = "auto"/></a>
+					<a href="#" class="honors_modal"><img class="nav-tech" src = "img/tech/honors.png" width = "25%" height = "auto"/></a>
+					<a href="#" class="cad_modal"><img class="nav-tech" src = "img/tech/cad.png" width = "25%" height = "auto"/></a>
+					<a href="#" class="cam_modal"><img class="nav-tech" src = "img/tech/cam.png" width = "25%" height = "auto"/></a>
 				</h1>
 
 			<div id = "footer" class = "nav"> 
@@ -96,7 +96,7 @@
 						<img src = "img/icon/LinkedIn.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/LinkedIn2.png'" onmouseout = "this.src='img/icon/LinkedIn.png'"/></a> &nbsp 
 					<a href = "http://www.pinterest.com/michellevoelker/">
 						<img src = "img/icon/Pinterest.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Pinterest2.png'" onmouseout = "this.src='img/icon/Pinterest.png'"/></a> &nbsp 
-					<a href = "mailto:mvoelker1025@gmail.com?Subject=Website%20Inquiry" target="_top">
+					<a href = "mailto:mvoelker1025@gmail.com?Subject=Website%25Inquiry" target="_top">
 						<img src = "img/icon/Mail.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp 
 					<a href = "info.php">
 						<img src = "img/icon/Info.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Info2.png'" onmouseout = "this.src='img/icon/Info.png'"/></a>
