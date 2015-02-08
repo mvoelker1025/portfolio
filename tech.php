@@ -83,7 +83,7 @@
 				<h1 class="tech-block">
 					<a href="#" class="iie_modal"><img class="nav-tech" src = "img/tech/iie.png" width = "25%" height = "auto"/></a>
 					<a href="#" class="honors_modal"><img class="nav-tech" src = "img/tech/honors.png" width = "25%" height = "auto"/></a>
-					<a href="#" class="cad_modal"><img class="nav-tech" src = "img/tech/cad.png" width = "25%" height = "auto"/></a>
+					<a href="#" class="cad_modal"><img class="nav-tech" src = "img/tech/car.png" width = "25%" height = "auto"/></a>
 					<a href="#" class="cam_modal"><img class="nav-tech" src = "img/tech/cam.png" width = "25%" height = "auto"/></a>
 				</h1>
 
