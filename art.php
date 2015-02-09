@@ -4,7 +4,16 @@
 		<title> Michelle Voelker's Portfolio </title>
 		<link rel="shortcut icon" href="img/icon.ico">
 		<link href="styles.css" rel = "stylesheet" type="text/css">
+		<script>
+		  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+		  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
 
+		  ga('create', 'UA-59557302-1', 'auto');
+		  ga('send', 'pageview');
+
+		</script>
 		<!-- Pinterest -->
 		<script type="text/javascript" async defer data-pin-hover="true" src="http://assets.pinterest.com/js/pinit.js"></script>
 
