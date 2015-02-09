@@ -25,14 +25,16 @@
 		},prop);
 				
 		//Click event on element
-		return this.click(function(e){
+		this.click(function(e){
 			add_block_page();
 			add_popup_box();
 			add_styles();
-			
+
 			$('.paulund_modal_box').fadeIn();
+			return false;
 		});
 		
+
 		/**
 		 * Add styles to the html markup
 		 */
@@ -105,6 +107,7 @@
 			});
 			$(this).parent().fadeOut().remove();
 			$('.paulund_block_page').fadeOut().remove();
+			return false;
 		}
 		 	
 		 /**
