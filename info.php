@@ -33,6 +33,7 @@
 			 "a Volunteer",
 			 "a Gaffer",
 			 "a Machinist",
+			 "a Musician",
 			 "a Baker" 
 			];
 
@@ -63,7 +64,7 @@
 		</div>
 
 		<div id = "wrapper">
-			<h2> I'm Michelle. I like puppies and making stuff. I wear size cheap and won't buy anything I can make. I can play the banjo, grew up on a dairy farm, and yes, I built this. Check out my <a href = "img/Resume.pdf"> resume</a> or use the links at the bottom of the page for more information or to reach out.</h2>
+			<h2> Hello, I'm Michelle. I wear size 'cheap' and won't buy anything I can make. I can play the banjo, grew up on a dairy farm, and yes, I built this. As you probably have noticed, I love making things. Check out my <a href = "img/Resume.pdf"> resume</a> or use the links at the bottom of the page to learn more or to reach out!</h2>
 
 		</div>
 	</div>
@@ -75,12 +76,12 @@
 			<p><a href = "http://www.engineering.iastate.edu/engrhonors/award-winning-honors-project-presentations/">College of Engineering Poster Presentation Award 2014</a></p>
 			<p><a href = "http://issuu.com/michellevoelker/docs/voelker_variations_in_resume_design">Honors Capstone 2014</a></p>
 			<p><a href = "http://www.dso.iastate.edu/pa/isupa-scholarship/2013-scholarship-finalists">ISU Parent's Association Scholarship Recipient 2013</a></p>
-			<p><a href = "http://www.iowafarmertoday.com/news/dairy/iowa-state-dairy-association-scholarship-winners-announced/article_73be7a16-c9fd-11e2-9314-001a4bcf887a.php">Iowa State Dairy Association Scholarship Recipient 2013</a></p>
+			<p><a href = "http://www.iowafarmertoday.com/news/dairy/iowa-state-dairy-association-scholarship-winners-announced/article_73be7a16-c9fd-11e2-9314-001a4bcf887a.html">Iowa State Dairy Association Scholarship Recipient 2013</a></p>
 			<p><a href = "http://www.music.iastate.edu/org/marching/futuremembers/staff.php">ISU Marching Band Leadership 2013</a></p>
 			<p><a href = "http://www.midwestdairycheckoff.com/0p28a302/june-2011-highlights/">MidWest Dairy Association Scholarship Recipient 2011</a></p>
 			<p><a href = "http://www.extension.iastate.edu/news/2010/jul/433007.htm">4-H State Visual Arts Award 2010</a></p>
 			<p><a href = "http://www.extension.iastate.edu/sites/www.extension.iastate.edu/files/polk/volunteer.pdf">4-H Special Exhibit Display 2009</a></p>
-			<p><a href = "http://main.w-delaware.k12.ia.us/staff_pages/pages/hs/duane_philgreen/09-10Awards.php">All State Music Festival 2009</a></p>
+			<p><a href = "http://main.w-delaware.k12.ia.us/staff_pages/pages/hs/duane_philgreen/09-10Awards.html">All State Music Festival 2009</a></p>
 			<p><a href = "http://www.public.coe.edu/~wcarson/summitresults2008.htm">Outstanding Jazz Soloist 2008</a></p>
 		</div>
 		</li>

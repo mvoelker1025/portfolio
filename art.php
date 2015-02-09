@@ -108,6 +108,17 @@
 									<li><a href="#"><img src="img/art/thumbs/25.jpg" data-large="img/art/25.jpg" alt="image01" data-description="DO YOU HEAR WHAT I HEAR (2008): Hatched pen drawing of trumpet with sheet music." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/26.jpg" data-large="img/art/26.jpg" alt="image01" data-description="GAFFER'S GUILD (2015): Club t-shirt design distributed to over 30 members." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/27.jpg" data-large="img/art/27.jpg" alt="image01" data-description="ENGINEERS' WEEK (2013): Publicity flyer, banner, and button designs distributed to hundreds of engineering students, faculty, staff, and community members." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/28.jpg" data-large="img/art/28.jpg" alt="image01" data-description="IOWA STATE CAPITOL (2010): Scratch board on copper of the Iowa State Capitol building." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/29.jpg" data-large="img/art/29.jpg" alt="image01" data-description="COUNTRY ROAD (2009): Impressionistic acrylic painting using red, blue, yellow, black and white." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/30.jpg" data-large="img/art/30.jpg" alt="image01" data-description="SURREAL LIFE (2008): Charcoal surrealism drawing." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/31.jpg" data-large="img/art/31.jpg" alt="image01" data-description="HALO X-BOX (2010): Acrylic painted X-box shell." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/32.jpg" data-large="img/art/32.jpg" alt="image01" data-description="BEST FRIENDS (2008): Impressionistic acrylic painting of girl and kitten." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/33.jpg" data-large="img/art/33.jpg" alt="image01" data-description="TIME WARP (2011): Acrylic painting on MDF." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/34.jpg" data-large="img/art/34.jpg" alt="image01" data-description="DAISY (" /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/35.jpg" data-large="img/art/35.jpg" alt="image01" data-description="ISU CLOCK (2011): Mod-podge clock." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/36.jpg" data-large="img/art/36.jpg" alt="image01" data-description="SELF PORTRAIT (2013): Self portrait in pencil." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/37.jpg" data-large="img/art/37.jpg" alt="image01" data-description="HALO (2010): Pencil drawing of video game collage." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/38.jpg" data-large="img/art/38.jpg" alt="image01" data-description="FULL BLOOM (2010): Charcoal drawing of flower." /></a></li>
 								</ul>
 							</div>
 						</div>
