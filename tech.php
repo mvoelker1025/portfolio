@@ -26,7 +26,7 @@
 			});
 			$('.iowa_state_modal').paulund_modal_box({
 				title: 'Iowa State University',
-				description: 'During school, I have been doing research for the Industrial and Manufacturing Systems Engineering department. My research is to create a new global standard in quantitative metal casting inspection, which will be a part of my Masters thesis.<br></br> <a href="http://www.iastate.edu/">Click here</a> to learn more about Iowa State.<br></br>'
+				description: 'During school, I have been doing research for the Industrial and Manufacturing Systems Engineering department. My research is to create a new global standard in quantitative metal casting inspection, which will be a part of my Master\'s thesis.<br></br> <a href="http://www.iastate.edu/">Click here</a> to learn more about Iowa State.<br></br>'
 			});
 			$('.pg_modal').paulund_modal_box({
 				title: 'Procter & Gamble',
@@ -38,7 +38,7 @@
 			});
 			$('.whirlpool_modal').paulund_modal_box({
 				title: 'Whirlpool',
-				description: 'I had two roles at Whirlpool. The first was in manufacturing in Spring/Summer 2012 in Amana, Iowa where I backfilled for a full time employee who had left the division. I was able to prove that as a college sophomore, I could manage teams of all backgrounds, make production decisions on behalf of my department on the new model line, and go above and beyond my assigned projects to build relationships with individuals throughout the company and obtain my Lean Sigma Yellow Belt Certification. From there, I was in procurement for the Leadership Development Program in Summer 2013 in Benton Harbor, Michigan. Although I found procurement was not for me, the opportunity gave me a broader perspective on the business as a whole and taught me the importance of communication between corporate, manufacturing, and suppliers globally. <br></br> <a href="http://www.whirlpoolcorp.com/">Click here</a> to learn more about Whirlpool. <br></br>'
+				description: 'I had two roles at Whirlpool. The first was in manufacturing in Spring/Summer 2012 in Amana, Iowa where I backfilled for a full time employee who had left the division. I was able to prove that as a college sophomore, I could manage teams of all backgrounds, make production decisions on behalf of my department on the new model line, and go above and beyond my assigned projects to build relationships with individuals throughout the company and obtain my Lean Sigma Yellow Belt Certification. <br></br> From there, I was in procurement for the Leadership Development Program in Summer 2013 in Benton Harbor, Michigan. Although I found procurement was not for me, the opportunity gave me a broader perspective on the business as a whole and taught me the importance of communication between corporate, manufacturing, and suppliers globally. <br></br> <a href="http://www.whirlpoolcorp.com/">Click here</a> to learn more about Whirlpool. <br></br>'
 			});
 			$('.iie_modal').paulund_modal_box({
 				title: 'IIE Technical Paper Competition',
@@ -46,7 +46,7 @@
 			});
 			$('.honors_modal').paulund_modal_box({
 				title: 'Honors Capstone Project',
-				description: 'Receiving honors for my capstone project, Variations on Resume Design, I had the opportunity to present at the Research in the Capitol event in DesMoines, Iowa in 2015. I enjoyed hearing about employers\' and students\' experience with writing for employment.<br></br> <a href="http://issuu.com/michellevoelker/docs/voelker_variations_in_resume_design/0">Click here</a> to view my capstone report. <br></br>'
+				description: 'Receiving honors for my capstone project, Variations on Resume Design, I had the opportunity to present at the Research in the Capitol event in Des Moines, Iowa in 2015. I enjoyed hearing about employers\' and students\' experience with writing for employment.<br></br> <a href="http://issuu.com/michellevoelker/docs/voelker_variations_in_resume_design/0">Click here</a> to view my capstone report. <br></br>'
 			});
 			$('.cad_modal').paulund_modal_box({
 				title: 'Solid Works Modeling Project',

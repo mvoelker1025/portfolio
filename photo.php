@@ -26,7 +26,7 @@
 			<h3> A picture is worth a thousand words.</h3>
 
 		<div id = "wrapper">
-			<h4> These past few years, I had the opportunity to travel to New York, St. Louis, and California on numerous occasions in addition to venturing around my home state of Iowa. Traveling always lends itself to great photo opportunities, but it also makes you appreciate the beauty of where you came from. This selection of photos includes scenes of the Golden Gate Bridge, Marston Water Tower, and Iowa State University Capanille. Here are some of my favorites from my college photo collection. </h4>	
+			<h4> These past few years, I had the opportunity to travel to New York, St. Louis, and California on numerous occasions in addition to venturing around my home state of Iowa. Traveling always lends itself to great photo opportunities, but it also makes you appreciate the beauty of where you came from. This selection of photos includes scenes of the Golden Gate Bridge, Marston Water Tower, and Iowa State University Campanile. Here are some of my favorites from my college photo collection. </h4>	
 			&nbsp
 
 				 	<h5 class="gallery">
