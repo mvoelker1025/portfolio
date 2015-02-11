@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+ 
+<url>
+<loc>http://michellevoelker.com/</loc>
+<priority>1.0</priority>
+<changefreq>yearly</changefreq>
+</url>
+<url>
+<loc>http://michellevoelker.com/img/Resume.pdf</loc>
+<changefreq>monthly</changefreq>
+<priority>.7</priority>
+</url>
+<url>
+<loc>http://michellevoelker.com/tech.php</loc>
+<changefreq>monthly</changefreq>
+</url>
+<url>
+<loc>http://michellevoelker.com/art.php</loc>
+<changefreq>monthly</changefreq>
+</url>
+<url>
+<loc>http://michellevoelker.com/photo.php</loc>
+<changefreq>monthly</changefreq>
+</url>
+<url>
+<loc>http://michellevoelker.com/info.php</loc>
+<changefreq>monthly</changefreq>
+</url>
+<url>
+<loc>https://www.pinterest.com/michellevoelker/</loc>
+</url>
+<url>
+<loc>https://www.linkedin.com/in/michellevoelker</loc>
+</url>
+ 
+</urlset>
