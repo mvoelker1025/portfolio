@@ -107,6 +107,10 @@ p{
 		box-shadow: 0px 0px 10px 5px #6857A6;
 	}
 
+	.nav-info:hover{
+		box-shadow: 0px 0px 10px 5px #6857A6;
+	}
+
 /* dropdowns-----------------------------------------*/
 
 	.dropdown li {
