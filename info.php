@@ -86,7 +86,7 @@
 			<p><a href = "http://www.iienet2.org/Default.aspx">Institute of Industrial Engineers 2015</a></p>
 			<p><a href = "http://gaffer.stuorg.iastate.edu/">Gaffer's Guild 2014-2015</a></p>
 			<p><a href = "http://www.nscs.org/">National Society of Collegiate Scholars 2010-2015</a></p>
-			<p><a href = "http://www.music.iastate.edu/org/marching/">Iowa State Marchiing Band 2010-2014</a></p>
+			<p><a href = "http://www.music.iastate.edu/org/marching/">Iowa State Marching Band 2010-2014</a></p>
 			<p><a href = "http://www.engineering.iastate.edu/eweek/">ISU Engineers' Week 2012-2013</a></p>
 		</div>
 		</li>
