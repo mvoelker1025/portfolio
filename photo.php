@@ -1,5 +1,4 @@
 <html>
-	
 	<head>
 		<title> Michelle's Portfolio </title>
 		<link rel="shortcut icon" href="img/icon.ico">
@@ -29,7 +28,8 @@
 	
 <body>
 	<div id="main" class = container>	
-
+		<a href = "index.php">
+			<img src = "img/icon/home2.png" width = "auto" height = "20px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'" align = "left"/></a>
 		<div class = "content">
 			<h1> Photography </h1>
 			<img src="./img/photo/head.png" width = "250px">
@@ -56,7 +56,8 @@
 
 			<div id = "footer" class = "nav"> 
 				<h5>
-					<a href = "index.php">Home</a>
+					<a href = "index.php">
+						<img src = "img/icon/home2.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'"/></a>
 				</h5>
 				<p>
 					<a href = "http://www.linkedin.com/in/michellevoelker">

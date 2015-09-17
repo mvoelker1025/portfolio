@@ -67,6 +67,8 @@
 <body>
 	
 	<div id="main" class = container>	
+		<a href = "index.php">
+			<img src = "img/icon/home2.png" width = "auto" height = "20px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'" align = "left"/></a>
 
 		<div class = "content">
 			<h1> Visual Arts </h1>
@@ -149,7 +151,9 @@
 
 			<div id = "footer" class = "nav"> 
 				<h5>
-					<a href = "index.php">Home</a>
+					<a href = "index.php">
+						<img src = "img/icon/home2.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'" /></a>
+
 				</h5>
 				<p>
 					<a href = "http://www.linkedin.com/in/michellevoelker">
@@ -157,7 +161,7 @@
 					<a href = "http://www.pinterest.com/michellevoelker/">
 						<img src = "img/icon/Pinterest.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Pinterest2.png'" onmouseout = "this.src='img/icon/Pinterest.png'"/></a> &nbsp 
 					<a href = "mailto:mvoelker1025@gmail.com?Subject=Website%20Inquiry" target="_top">
-						<img src = "img/icon/Mail.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp 
+						<img src = "img/icon/Mail.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp
 					<a href = "info.php">
 						<img src = "img/icon/Info.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Info2.png'" onmouseout = "this.src='img/icon/Info.png'"/></a>
 				</p>
