@@ -98,7 +98,7 @@
 									<li><a href="#"><img src="img/art/thumbs/6.jpg" data-large="img/art/6.jpg" alt="image01" data-description="BATTLE IN THE SEA (2015): Acrylic abstract painting." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/7.jpg" data-large="img/art/7.jpg" alt="image01" data-description="GEARS (2009): Conte gears in the brush." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/8.jpg" data-large="img/art/8.jpg" alt="image01" data-description="KRAUS (2013): Acrylic motorcycle on rock." /></a></li>
-									<!-- <li><a href="#"><img src="img/art/thumbs/9.jpg" data-large="img/art/9.jpg" alt="image01" data-description="CARRIE'S ARRANGEMENT (2014): Floral arrangement in pencil." /></a></li> -->
+									<li><a href="#"><img src="img/art/thumbs/9.jpg" data-large="img/art/9.jpg" alt="image01" data-description="ARRANGEMENT BY CARRIE (2014): Floral arrangement in pencil." /></a></li> -->
 									<li><a href="#"><img src="img/art/thumbs/10.jpg" data-large="img/art/10.jpg" alt="image01" data-description="SCRAPPY PURSE (2014): Sewn purse with accompanying wallet." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/11.jpg" data-large="img/art/11.jpg" alt="image01" data-description="GIRAFFE (2011): Young giraffe in pencil." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/12.jpg" data-large="img/art/12.jpg" alt="image01" data-description="TURTLE (2011): Turtle in pencil." /></a></li>
@@ -115,7 +115,7 @@
 									<li><a href="#"><img src="img/art/thumbs/23.jpg" data-large="img/art/23.jpg" alt="image01" data-description="BALD EAGLE (2011): Bald eagle in pencil." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/24.jpg" data-large="img/art/24.jpg" alt="image01" data-description="ART SHELF (2009): Wooden art desktop easle with storage." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/25.jpg" data-large="img/art/25.jpg" alt="image01" data-description="DO YOU HEAR WHAT I HEAR (2008): Hatched pen drawing of trumpet with sheet music." /></a></li>
-									<!-- <li><a href="#"><img src="img/art/thumbs/26.jpg" data-large="img/art/26.jpg" alt="image01" data-description="GAFFER'S GUILD (2015): Club t-shirt design distributed to over 30 members." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/26.jpg" data-large="img/art/26.jpg" alt="image01" data-description="GAFFER'S GUILD (2015): Club t-shirt design distributed to over 30 members." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/27.jpg" data-large="img/art/27.jpg" alt="image01" data-description="ENGINEERS' WEEK (2013): Publicity flyer, banner, and button designs distributed to hundreds of engineering students, faculty, staff, and community members." /></a></li> -->
 									<li><a href="#"><img src="img/art/thumbs/28.jpg" data-large="img/art/28.jpg" alt="image01" data-description="IOWA STATE CAPITOL (2010): Scratch board on copper of the Iowa State Capitol building." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/29.jpg" data-large="img/art/29.jpg" alt="image01" data-description="COUNTRY ROAD (2009): Impressionistic acrylic painting using red, blue, yellow, black and white." /></a></li>

@@ -73,7 +73,7 @@
 		</div>
 
 		<div id = "wrapper">
-			<h2> Hello, I'm Michelle. I wear size 'cheap' and won't buy anything I can make. I can play the banjo, grew up on a dairy farm, and yes, I built this. As you probably have noticed, I love making things. Check out my <a href = "img/Resume.pdf"> resume</a> or use the links at the bottom of the page to learn more or to reach out!</h2>
+			<h2> Hello, I'm Michelle. I wear size 'cheap' and won't buy anything I can make. I can play the banjo, grew up on a dairy farm, and yes, I built this. As you probably have noticed, I love making things and helping others. Check out my <a href = "img/Resume.pdf"> resume</a> or use the links at the bottom of the page to learn more or to reach out!</h2>
 
 		</div>
 	</div>
@@ -111,7 +111,9 @@
 		<li>
 		<div class="label">Recognition</div>
 		<div class="hidden">
-			<p><a href = "http://www.engineering.iastate.edu/engrhonors/award-winning-honors-project-presentations/">College of Engineering Poster Presentation Award 2014</a></p>
+			<p><a href = "http://news.engineering.iastate.edu/2015/03/23/iowa-state-undergraduates-showcase-their-research-at-annual-capitol-event-march-24/">Research at Capitol Showcase 2015</a></p>
+			<p><a href = "http://www.engineering.iastate.edu/engrhonors/award-winning-honors-project-presentations/">College of Engineering Award-Winning Honors Presentation 2014</a></p>
+			<p><a href = "http://issuu.com/michellevoelker/docs/voelker_variations_in_resume_design">Best in College of Engineering Honors Capstone 2014</a></p>
 			<p><a href = "http://issuu.com/michellevoelker/docs/voelker_variations_in_resume_design">Honors Capstone 2014</a></p>
 			<p><a href = "http://www.dso.iastate.edu/pa/isupa-scholarship/2013-scholarship-finalists">ISU Parent's Association Scholarship Recipient 2013</a></p>
 			<p><a href = "http://www.iowafarmertoday.com/news/dairy/iowa-state-dairy-association-scholarship-winners-announced/article_73be7a16-c9fd-11e2-9314-001a4bcf887a.html">Iowa State Dairy Association Scholarship Recipient 2013</a></p>

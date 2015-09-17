@@ -31,7 +31,7 @@
 		$(document).ready(function(){
 			$('.rolls_royce_modal').paulund_modal_box({
 				title: 'Rolls-Royce',
-				description: 'This summer, I will be interning at Rolls-Royce in Indianapolis, Indiana. With a position in lean manufacturing, I am excited to see what this role has to offer. <br></br> <a href="http://rolls-royce.com/">Click here</a> to learn more about Rolls-Royce.<br></br>'
+				description: 'I was a Continuous Improvement intern with Rolls-Royce in Indianapolis in Summer 2015. I had a great experience working with various personality types to support implementation of the Production System in the Manufacturing Services and Cutter Grind group. I will be returning to Rolls-Royce after graduation as part of their Operations Development Program.<br></br> <a href="http://rolls-royce.com/">Click here</a> to learn more about Rolls-Royce.<br></br>'
 			});
 			$('.iowa_state_modal').paulund_modal_box({
 				title: 'Iowa State University',
@@ -39,7 +39,7 @@
 			});
 			$('.pg_modal').paulund_modal_box({
 				title: 'Procter & Gamble',
-				description: 'I worked at Procter & Gamble in Summer 2014. This experience was great in providing management experience in various areas of the plant and teaching me how to utilize my resources in juggling dozens of tasks.<br></br> <a href="http://www.pg.com/en_US/index.shtml">Click here</a> to learn more about Procter & Gamble.<br></br>'
+				description: 'I worked at Procter & Gamble in Iowa City in Summer 2014. This experience was great in providing management experience in various areas of the plant and teaching me how to utilize my resources in juggling dozens of tasks.<br></br> <a href="http://www.pg.com/en_US/index.shtml">Click here</a> to learn more about Procter & Gamble.<br></br>'
 			});
 			$('.spacex_modal').paulund_modal_box({
 				title: 'SpaceX',
@@ -73,6 +73,10 @@
 				title: '2013 Inaugural Victaulic Sales Competition',
 				description: 'Received honorable mention in the individual sales role-play competition at Iowa State University judged by Victaulic executives. The sales scenario was a 10 minute meeting with a prospective company to have them consider switching to Victaulic couplings from a current competitor for their upcoming school construction project.<br></br>'
 			});
+			$('.hyvee_modal').paulund_modal_box({
+				title: 'Hy-Vee Senior Design Project',
+				description: 'For our Senior Design project, our team of four worked with the grocer, Hy-Vee, to improve their receiving process. A savings of $1.07 Million annually was realized through process improvements with mixed pallets, RF receiving, and electronic receiving adjustment records.<br></br>'
+			});
 		});
 
 	</script>
@@ -90,20 +94,21 @@
 
 				<h3> Work Experience </h3>
 				<h1 class="tech-block">
-					<a href="#" class="rolls_royce_modal"><img class='nav-tech' src = "img/tech/rolls.png" width = "30%" height = "auto"/></a>
-					<a href="#" class="iowa_state_modal"><img class='nav-tech' src = "img/tech/isu.png" width = "30%" height = "auto"/></a>
-					<a href="#" class="pg_modal"><img class='nav-tech' src = "img/tech/pg.png" width = "30%" height = "auto"/></a>
-					<a href="#" class="spacex_modal"><img class='nav-tech' src = "img/tech/spacex.png" width = "30%" height = "auto"/></a>
-					<a href="#" class="whirlpool_modal"><img class='nav-tech' src = "img/tech/whirlpool.png" width = "30%" height = "auto"/></a>
+					<a href="#" class="rolls_royce_modal"><img class='nav-tech' src = "img/tech/rolls.png" width = "230px" height = "auto"/></a>
+					<a href="#" class="iowa_state_modal"><img class='nav-tech' src = "img/tech/isu.png" width = "230px" height = "auto"/></a>
+					<a href="#" class="pg_modal"><img class='nav-tech' src = "img/tech/pg.png" width = "230px" height = "auto"/></a>
+					<a href="#" class="spacex_modal"><img class='nav-tech' src = "img/tech/spacex.png" width = "230px" height = "auto"/></a>
+					<a href="#" class="whirlpool_modal"><img class='nav-tech' src = "img/tech/whirlpool.png" width = "230px" height = "auto"/></a>
 				</h1>
 				<h3> Case Studies </h3>
 				<h1 class="tech-block">
-					<a href="#" class="iie_modal"><img class="nav-tech" src = "img/tech/iie.png" width = "25%" height = "auto"/></a>
-					<a href="#" class="honors_modal"><img class="nav-tech" src = "img/tech/honors.png" width = "25%" height = "auto"/></a>
-					<a href="#" class="cad_modal"><img class="nav-tech" src = "img/tech/car.png" width = "25%" height = "auto"/></a>
-					<a href="#" class="cam_modal"><img class="nav-tech" src = "img/tech/cam.png" width = "25%" height = "auto"/></a>
-					<a href="#" class="cat_modal"><img class="nav-tech" src = "img/tech/cat.png" width = "25%" height = "auto"/></a>
-					<a href="#" class="vic_modal"><img class="nav-tech" src = "img/tech/vic.png" width = "25%" height = "auto"/></a>
+					<a href="#" class="iie_modal"><img class="nav-tech" src = "img/tech/iie.png" width = "200px" height = "auto"/></a>
+					<a href="#" class="honors_modal"><img class="nav-tech" src = "img/tech/honors.png" width = "200px" height = "auto"/></a>
+					<a href="#" class="cad_modal"><img class="nav-tech" src = "img/tech/car.png" width = "200px" height = "auto"/></a>
+					<a href="#" class="cam_modal"><img class="nav-tech" src = "img/tech/cam.png" width = "200px" height = "auto"/></a>
+					<a href="#" class="cat_modal"><img class="nav-tech" src = "img/tech/cat.png" width = "200px" height = "auto"/></a>
+					<a href="#" class="vic_modal"><img class="nav-tech" src = "img/tech/vic.png" width = "200px" height = "auto"/></a>
+					<a href="#" class="hyvee_modal"><img class="nav-tech" src = "img/tech/hyvee.png" width = "200px" height = "auto"/></a>
 				</h1>
 
 			<div id = "footer" class = "nav"> 
