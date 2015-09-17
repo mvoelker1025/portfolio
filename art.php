@@ -128,6 +128,9 @@
 									<li><a href="#"><img src="img/art/thumbs/36.jpg" data-large="img/art/36.jpg" alt="image01" data-description="SELF PORTRAIT (2013): Self portrait in pencil." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/37.jpg" data-large="img/art/37.jpg" alt="image01" data-description="HALO (2010): Pencil drawing of video game collage." /></a></li>
 									<li><a href="#"><img src="img/art/thumbs/38.jpg" data-large="img/art/38.jpg" alt="image01" data-description="FULL BLOOM (2010): Charcoal drawing of flower." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/39.jpg" data-large="img/art/39.jpg" alt="image01" data-description="BOUQUET (2015): Painted vases with painted paper roses." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/40.jpg" data-large="img/art/40.jpg" alt="image01" data-description="CURIOSITY (2015): Charcoal drawing of cat." /></a></li>
+									<li><a href="#"><img src="img/art/thumbs/41.jpg" data-large="img/art/41.jpg" alt="image01" data-description="JUSTICE LEAGUE (2015): Marker drawing." /></a></li>
 								</ul>
 							</div>
 						</div>
