@@ -1,5 +1,4 @@
-<html>
-	
+<html>	
 	<head>
 		<title> Michelle's Portfolio </title>
 		<link rel="shortcut icon" href="img/icon.ico">
@@ -90,11 +89,10 @@
 			<p><a href = "http://www.nscs.org/">National Society of Collegiate Scholars 2010-2015</a></p>
 			<p><a href = "http://www.music.iastate.edu/org/marching/">Iowa State Marching Band 2010-2014</a></p>
 			<p><a href = "http://www.engineering.iastate.edu/eweek/">ISU Engineers' Week 2012-2013</a></p>
-			<p>&nbsp </p>
 		</div>
 		</li>
 		</ul>
-
+			<p>&nbsp </p>
 		<ul class="dropdown">
 		<li>
 		<div class="label">Volunteer Organizations</div>
@@ -106,11 +104,10 @@
 			<a href = "http://www.legion.org/"><img class="nav-info" src = "img/info/legion.png" width = "10%" height = "auto"/></a>
 			<a href = "http://www.4-h.org/"><img class="nav-info" src = "img/info/4h.png" width = "10%" height = "auto"/></a>
 			<a href = "http://www.thecustodyproject.org/"><img class="nav-info" src = "img/info/tcp.png" width = "10%" height = "auto"/></a>
-			<p>&nbsp </p>
 		</div>
 		</li>
 		</ul>
-
+			<p>&nbsp </p>
 	<ul class="dropdown">
 		<li>
 		<div class="label">Recognition</div>
@@ -127,7 +124,6 @@
 			<p><a href = "http://www.extension.iastate.edu/sites/www.extension.iastate.edu/files/polk/volunteer.pdf">4-H Special Exhibit Display 2009</a></p>
 			<p><a href = "http://main.w-delaware.k12.ia.us/staff_pages/pages/hs/duane_philgreen/09-10Awards.html">All State Music Festival 2009</a></p>
 			<p><a href = "http://www.public.coe.edu/~wcarson/summitresults2008.htm">Outstanding Jazz Soloist 2008</a></p>
-			<p>&nbsp </p>
 		</div>
 		</li>
 		</ul>
@@ -136,15 +132,15 @@
 			<div id = "footer" class = "nav"> 
 				<h5>
 					<a href = "index.php">
-						<img src = "img/icon/home2.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'" /></a>
+						<img src = "img/icon/home2.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'" /></a>
 				</h5>
 				<p>
 					<a href = "http://www.linkedin.com/in/michellevoelker">
-						<img src = "img/icon/LinkedIn.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/LinkedIn2.png'" onmouseout = "this.src='img/icon/LinkedIn.png'"/></a> &nbsp 
+						<img src = "img/icon/LinkedIn.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/LinkedIn2.png'" onmouseout = "this.src='img/icon/LinkedIn.png'"/></a> &nbsp 
 					<a href = "http://www.pinterest.com/michellevoelker/">
-						<img src = "img/icon/Pinterest.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Pinterest2.png'" onmouseout = "this.src='img/icon/Pinterest.png'"/></a> &nbsp 
+						<img src = "img/icon/Pinterest.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/Pinterest2.png'" onmouseout = "this.src='img/icon/Pinterest.png'"/></a> &nbsp 
 					<a href = "mailto:mvoelker1025@gmail.com?Subject=Website%20Inquiry" target="_top">
-						<img src = "img/icon/Mail.png" width = "auto" height = "40px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp 
+						<img src = "img/icon/Mail.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp 
 				</p>
 				<h5>
 					&#0169; <span id="currentYear"></span> Michelle Voelker

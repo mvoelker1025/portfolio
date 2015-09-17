@@ -1,6 +1,6 @@
 <html>
 	<head>
-<meta name=viewport content="width=device-width, initial-scale=1">
+
 		<title> Michelle's Portfolio </title>
 		<link rel="shortcut icon" href="img/icon.ico">
 		<link href="styles.css" rel = "stylesheet" type="text/css">
