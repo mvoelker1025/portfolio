@@ -18,8 +18,7 @@
 		<script type="text/javascript" async defer data-pin-hover="true" src="http://assets.pinterest.com/js/pinit.js"></script>
 
 		<meta charset="UTF-8" />
-		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
+		
         <meta name="description" content="Responsive Image Gallery with jQuery" />
         <meta name="keywords" content="jquery, carousel, image gallery, slider, responsive, flexible, fluid, resize, css3" />
 		<meta name="author" content="Codrops" />
