@@ -1,5 +1,6 @@
 <html>
 	<head>
+<meta name=viewport content="width=device-width, initial-scale=1">
 		<title> Michelle's Portfolio </title>
 		<link rel="shortcut icon" href="img/icon.ico">
 		<link href="styles.css" rel = "stylesheet" type="text/css">
@@ -14,7 +15,6 @@
 
 		</script>
 		<script>
-<meta name=viewport content="width=device-width, initial-scale=1">
 		window.onload = function() {
 
 			// set current copyright year
@@ -57,17 +57,17 @@
 			<div id = "footer" class = "nav"> 
 				<h5>
 					<a href = "index.php">
-						<img src = "img/icon/home2.png" width = "auto" height = "60px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'"/></a>
+						<img src = "img/icon/home2.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/home.png'" onmouseout = "this.src='img/icon/home2.png'"/></a>
 				</h5>
 				<p>
 					<a href = "http://www.linkedin.com/in/michellevoelker">
-						<img src = "img/icon/LinkedIn.png" width = "auto" height = "60px" onmouseover = "this.src='img/icon/LinkedIn2.png'" onmouseout = "this.src='img/icon/LinkedIn.png'"/></a> &nbsp &nbsp
+						<img src = "img/icon/LinkedIn.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/LinkedIn2.png'" onmouseout = "this.src='img/icon/LinkedIn.png'"/></a> &nbsp 
 					<a href = "http://www.pinterest.com/michellevoelker/">
-						<img src = "img/icon/Pinterest.png" width = "auto" height = "60px" onmouseover = "this.src='img/icon/Pinterest2.png'" onmouseout = "this.src='img/icon/Pinterest.png'"/></a> &nbsp &nbsp
+						<img src = "img/icon/Pinterest.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/Pinterest2.png'" onmouseout = "this.src='img/icon/Pinterest.png'"/></a> &nbsp 
 					<a href = "mailto:mvoelker1025@gmail.com?Subject=Website%20Inquiry" target="_top">
-						<img src = "img/icon/Mail.png" width = "auto" height = "60px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp &nbsp
+						<img src = "img/icon/Mail.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/Mail2.png'" onmouseout = "this.src='img/icon/Mail.png'"/></a> &nbsp 
 					<a href = "info.php">
-						<img src = "img/icon/Info.png" width = "auto" height = "60px" onmouseover = "this.src='img/icon/Info2.png'" onmouseout = "this.src='img/icon/Info.png'"/></a>
+						<img src = "img/icon/Info.png" width = "auto" height = "50px" onmouseover = "this.src='img/icon/Info2.png'" onmouseout = "this.src='img/icon/Info.png'"/></a>
 				</p>
 				<h5>
 					&#0169; <span id="currentYear"></span> Michelle Voelker
